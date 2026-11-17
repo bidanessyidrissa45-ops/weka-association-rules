@@ -1,0 +1,5 @@
+# Weka runtime and generated files
+lib/
+results/bank*.arff
+.vscode/
+*.class
